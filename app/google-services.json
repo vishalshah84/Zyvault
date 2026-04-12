@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008954603963",
+    "project_id": "zyvault-cbbc8",
+    "storage_bucket": "zyvault-cbbc8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008954603963:android:d541b1a0b78f5e8d882c9e",
+        "android_client_info": {
+          "package_name": "com.zyvault.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVjrQgVuCeYSgAR_XayQy80BK1aZvHSPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,73 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Geometric Symbol -->
+
+    <!-- 1. Core Orange Circle (Center: 54, 54, Radius: 15) -->
+    <path
+        android:fillColor="#FF5500"
+        android:pathData="M54,39a15,15 0,1 1,0 30a15,15 0,1 1,0 -30" />
+
+    <!-- 2. Smaller White Circle Inside (Center: 54, 54, Radius: 6) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,48a6,6 0,1 1,0 12a6,6 0,1 1,0 -12" />
+
+    <!-- 3. Cardinal Rays (Orange #FF5500, Long, Rounded) -->
+    <!-- Width: 6.5, Start Radius: 20, End Radius: 48 -->
+    <!-- Top -->
+    <path
+        android:strokeColor="#FF5500"
+        android:strokeWidth="6.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,34 L54,6" />
+    <!-- Bottom -->
+    <path
+        android:strokeColor="#FF5500"
+        android:strokeWidth="6.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,74 L54,102" />
+    <!-- Left -->
+    <path
+        android:strokeColor="#FF5500"
+        android:strokeWidth="6.5"
+        android:strokeLineCap="round"
+        android:pathData="M34,54 L6,54" />
+    <!-- Right -->
+    <path
+        android:strokeColor="#FF5500"
+        android:strokeWidth="6.5"
+        android:strokeLineCap="round"
+        android:pathData="M74,54 L102,54" />
+
+    <!-- 4. Diagonal Rays (Gray #808080 at 50% opacity, Short, Rounded) -->
+    <!-- Width: 5, Start Radius: 20, End Radius: 36 -->
+    <!-- Top-Right (45 deg) -->
+    <path
+        android:strokeColor="#80808080"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M68.1,39.9 L79.5,28.5" />
+    <!-- Bottom-Right (135 deg) -->
+    <path
+        android:strokeColor="#80808080"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M68.1,68.1 L79.5,79.5" />
+    <!-- Bottom-Left (225 deg) -->
+    <path
+        android:strokeColor="#80808080"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M39.9,68.1 L28.5,79.5" />
+    <!-- Top-Left (315 deg) -->
+    <path
+        android:strokeColor="#80808080"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M39.9,39.9 L28.5,28.5" />
+
+</vector>

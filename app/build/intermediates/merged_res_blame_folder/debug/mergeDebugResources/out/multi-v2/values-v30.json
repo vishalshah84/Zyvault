@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.zyvault.app-mergeDebugResources-61:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/Users/vishalshah84/.gradle/caches/9.3.1/transforms/176e69b3493124b9c7dda9e504206882/transformed/material3-release/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

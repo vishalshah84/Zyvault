@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="zyvault_orange">#FF8F00</color>
+    <string name="gcm_defaultSenderId" translatable="false">1008954603963</string>
+    <string name="google_api_key" translatable="false">AIzaSyCVjrQgVuCeYSgAR_XayQy80BK1aZvHSPg</string>
+    <string name="google_app_id" translatable="false">1:1008954603963:android:d541b1a0b78f5e8d882c9e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCVjrQgVuCeYSgAR_XayQy80BK1aZvHSPg</string>
+    <string name="google_storage_bucket" translatable="false">zyvault-cbbc8.firebasestorage.app</string>
+    <string name="project_id" translatable="false">zyvault-cbbc8</string>
+    <style name="Theme.Zyvault" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#FF0A0A0A</item>
+        <item name="android:statusBarColor">#FF0A0A0A</item>
+        <item name="android:navigationBarColor">#FF0F0F0F</item>
+    </style>
+</resources>
