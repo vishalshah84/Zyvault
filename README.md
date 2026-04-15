@@ -30,7 +30,7 @@ Zyvault is a comprehensive financial management application designed to help use
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/zyvault.git
+   git clone https://github.com/vishalshah84/zyvault.git
    ```
 2. Open the project in Android Studio.
 3. Add your `google-services.json` to the `app/` directory.
